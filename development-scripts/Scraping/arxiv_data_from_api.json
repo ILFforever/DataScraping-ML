@@ -1,0 +1,1207 @@
+[
+  {
+    "id": "http://arxiv.org/abs/math/9201204v1",
+    "title": "Shadows of convex bodies",
+    "abstract": "It is proved that if $C$ is a convex body in ${\\Bbb R}^n$ then $C$ has an\naffine image $\\widetilde C$ (of non-zero volume) so that if $P$ is any\n1-codimensional orthogonal projection,\n  $$|P\\widetilde C| \\ge |\\widetilde C|^{n-1\\over n}.$$\n  It is also shown that there is a pathological body, $K$, all of whose\northogonal projections have volume about $\\sqrt{n}$ times as large as\n$|K|^{n-1\\over n}$.",
+    "authors": [
+      "Keith Ball"
+    ],
+    "categories": "math.MG",
+    "published": "1989-10-26T14:59:00Z",
+    "updated": "1989-10-26T14:59:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201303v1",
+    "title": "Stable husbands",
+    "abstract": "Suppose $n$ boys and $n$ girls rank each other at random. We show that any\nparticular girl has at least $({1\\over 2}-\\epsilon) \\ln n$ and at most\n$(1+\\epsilon)\\ln n$ different husbands in the set of all Gale/Shapley stable\nmatchings defined by these rankings, with probability approaching 1 as $n \\to\n\\infty$, if $\\epsilon$ is any positive constant. The proof emphasizes general\nmethods that appear to be useful for the analysis of many other combinatorial\nalgorithms.",
+    "authors": [
+      "Donald E. Knuth",
+      "Rajeev Motwani",
+      "Boris Pittel"
+    ],
+    "categories": "math.CO",
+    "published": "1990-01-01T00:00:00Z",
+    "updated": "1990-01-01T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201211v1",
+    "title": "Nuclear operators on spaces of continuous vector-valued functions",
+    "abstract": "Let $\\Omega$ be a compact Hausdorff space, let $E$ be a Banach space, and let\n$C(\\Omega, E)$ stand for the Banach space of all $E$-valued continuous\nfunctions on $\\Omega$ under supnorm. In this paper we study when nuclear\noperators on $C(\\Omega, E)$ spaces can be completely characterized in terms of\nproperties of their representing vector measures. We also show that if $F$ is a\nBanach space and if $T:\\ C(\\Omega, E)\\rightarrow F$ is a nuclear operator, then\n$T$ induces a bounded linear operator $T^\\#$ from the space $C(\\Omega)$ of\nscalar valued continuous functions on $\\Omega$ into $\\slN(E,F)$ the space of\nnuclear operators from $E$ to $F$, in this case we show that $E^*$ has the\nRadon-Nikodym property if and only if $T^\\#$ is nuclear whenever $T$ is\nnuclear.",
+    "authors": [
+      "Paulette Saab",
+      "Brenda Smith"
+    ],
+    "categories": "math.FA",
+    "published": "1990-03-27T19:45:00Z",
+    "updated": "1990-03-27T19:45:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201215v2",
+    "title": "p-summing operators on injective tensor products of spaces",
+    "abstract": "Let $X,Y$ and $Z$ be Banach spaces, and let $\\prod_p(Y,Z) (1\\leq p<\\infty)$\ndenote the space of $p$-summing operators from $Y$ to $Z$. We show that, if $X$\nis a {\\it \\$}$_\\infty$-space, then a bounded linear operator $T: X\\hat\n\\otimes_\\epsilon Y\\longrightarrow Z$ is 1-summing if and only if a naturally\nassociated operator $T^#: X\\longrightarrow \\prod_1(Y,Z)$ is 1-summing. This\nresult need not be true if $X$ is not a {\\it \\$}$_\\infty$-space. For $p>1$,\nseveral examples are given with $X=C[0,1]$ to show that $T^#$ can be\n$p$-summing without $T$ being $p$-summing. Indeed, there is an operator $T$ on\n$C[0,1]\\hat \\otimes_\\epsilon \\ell_1$ whose associated operator $T^#$ is\n2-summing, but for all $N\\in \\N$, there exists an $N$-dimensional subspace $U$\nof $C[0,1]\\hat \\otimes_\\epsilon \\ell_1$ such that $T$ restricted to $U$ is\nequivalent to the identity operator on $\\ell^N_\\infty$. Finally, we show that\nthere is a compact Hausdorff space $K$ and a bounded linear operator $T:\\\nC(K)\\hat \\otimes_\\epsilon \\ell_1\\longrightarrow \\ell_2$ for which $T^#:\\\nC(K)\\longrightarrow \\prod_1(\\ell_1, \\ell_2)$ is not 2-summing.",
+    "authors": [
+      "Stephen J. Montgomery-Smith",
+      "Paulette Saab"
+    ],
+    "categories": "math.FA",
+    "published": "1990-07-23T20:22:00Z",
+    "updated": "1999-12-04T05:08:35Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201274v1",
+    "title": "One-dimensional maps and Poincaré metric",
+    "abstract": "Invertible compositions of one-dimensional maps are studied which are assumed\nto include maps with non-positive Schwarzian derivative and others whose sum of\ndistortions is bounded. If the assumptions of the Koebe principle hold, we show\nthat the joint distortion of the composition is bounded. On the other hand, if\nall maps with possibly non-negative Schwarzian derivative are almost\nlinear-fractional and their nonlinearities tend to cancel leaving only a small\ntotal, then they can all be replaced with affine maps with the same domains and\nimages and the resulting composition is a very good approximation of the\noriginal one. These technical tools are then applied to prove a theorem about\ncritical circle maps.",
+    "authors": [
+      "Grzegorz Swiatek"
+    ],
+    "categories": "math.DS",
+    "published": "1990-08-12T00:00:00Z",
+    "updated": "1990-08-12T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201275v1",
+    "title": "The Julia sets and complex singularities in hierarchical Ising models",
+    "abstract": "We study the analytical continuation in the complex plane of free energy of\nthe Ising model on diamond-like hierarchical lattices. It is known that the\nsingularities of free energy of this model lie on the Julia set of some\nrational endomorphism $f$ related to the action of the Migdal-Kadanoff\nrenorm-group. We study the asymptotics of free energy when temperature goes\nalong hyperbolic geodesics to the boundary of an attractive basin of $f$. We\nprove that for almost all (with respect to the harmonic measure) geodesics the\ncomplex critical exponent is common, and compute it.",
+    "authors": [
+      "Pavel Bleher",
+      "Mikhail Lyubich"
+    ],
+    "categories": "math.DS",
+    "published": "1990-09-26T00:00:00Z",
+    "updated": "1990-09-26T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201284v1",
+    "title": "The Teichmüller space of an Anosov diffeomorphism of $T^2$",
+    "abstract": "In this paper we consider the space of smooth conjugacy classes of an Anosov\ndiffeomorphism of the two-torus. The only 2-manifold that supports an Anosov\ndiffeomorphism is the 2-torus, and Franks and Manning showed that every such\ndiffeomorphism is topologically conjugate to a linear example, and furthermore,\nthe eigenvalues at periodic points are a complete smooth invariant. The\nquestion arises: what sets of eigenvalues occur as the Anosov diffeomorphism\nranges over a topological conjugacy class? This question can be reformulated:\nwhat pairs of cohomology classes (one determined by the expanding eigenvalues,\nand one by the contracting eigenvalues) occur as the diffeomorphism ranges over\na topological conjugacy class? The purpose of this paper is to answer this\nquestion: all pairs of H\\\"{o}lder reduced cohomology classes occur.",
+    "authors": [
+      "Elise E. Cawley"
+    ],
+    "categories": "math.DS",
+    "published": "1991-05-12T00:00:00Z",
+    "updated": "1991-05-12T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201229v1",
+    "title": "Interpolation between H^p spaces and non-commutative generalizations, I",
+    "abstract": "We give an elementary proof that the $H^p$ spaces over the unit disc (or the\nupper half plane) are the interpolation spaces for the real method of\ninterpolation between $H^1$ and $H^\\infty$. This was originally proved by Peter\nJones. The proof uses only the boundedness of the Hilbert transform and the\nclassical factorisation of a function in $H^p$ as a product of two functions in\n$H^q$ and $H^r$ with $1/q+1/r=1/p$. This proof extends without any real extra\ndifficulty to the non-commutative setting and to several Banach space valued\nextensions of $H^p$ spaces. In particular, this proof easily extends to the\ncouple $H^{p_0}(\\ell_{q_0}),H^{p_1}(\\ell_{q_1})$, with $1\\leq p_0, p_1, q_0,\nq_1 \\leq \\infty$. In that situation, we prove that the real interpolation\nspaces and the K-functional are induced ( up to equivalence of norms ) by the\nsame objects for the couple $L_{p_0}(\\ell_{q_0}), L_{p_1}(\\ell_{q_1})$. In\nanother direction, let us denote by $C_p$ the space of all compact operators\n$x$ on Hilbert space such that $tr(|x|^p) <\\infty$. Let $T_p$ be the subspace\nof all upper triangular matrices relative to the canonical basis. If\n$p=\\infty$, $C_p$ is just the space of all compact operators. Our proof allows\nus to show for instance that the space $H^p(C_p)$ (resp. $T_p$) is the\ninterpolation space of parameter $(1/p,p)$ between $H^1(C_1)$ (resp. $T_1$) and\n$H^\\infty(C_\\infty)$ (resp. $T_\\i$). We also prove a similar result for the\ncomplex interpolation method. Moreover, extending a recent result of\nKaftal-Larson and Weiss, we prove that the distance to the subspace of upper\ntriangular matrices in $C_1$ and $C_\\infty$ can be essentially realized\nsimultaneously by the same element.",
+    "authors": [
+      "Gilles Pisier"
+    ],
+    "categories": "math.FA",
+    "published": "1991-06-04T15:27:17Z",
+    "updated": "1991-06-04T15:27:17Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201288v1",
+    "title": "Dynamics of certain smooth one-dimensional mappings IV: Asymptotic\n  geometry of Cantor sets",
+    "abstract": "We study hyperbolic mappings depending on a parameter $\\varepsilon $. Each of\nthem has an invariant Cantor set. As $\\varepsilon $ tends to zero, the mapping\napproaches the boundary of hyperbolicity. We analyze the asymptotics of the gap\ngeometry and the scaling function geometry of the invariant Cantor set as\n$\\varepsilon $ goes to zero. For example, in the quadratic case, we show that\nall the gaps close uniformly with speed $\\sqrt {\\varepsilon}$. There is a\nlimiting scaling function of the limiting mapping and this scaling function has\ndense jump discontinuities because the limiting mapping is not expanding.\nRemoving these discontinuities by continuous extension, we show that we obtain\nthe scaling function of the limiting mapping with respect to the Ulam-von\nNeumann type metric.",
+    "authors": [
+      "Yunping Jiang"
+    ],
+    "categories": "math.DS",
+    "published": "1991-06-27T00:00:00Z",
+    "updated": "1991-06-27T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201289v1",
+    "title": "Periods implying almost all periods, trees with snowflakes, and zero\n  entropy maps",
+    "abstract": "Let $X$ be a compact tree, $f$ be a continuous map from $X$ to itself,\n$End(X)$ be the number of endpoints and $Edg(X)$ be the number of edges of $X$.\nWe show that if $n>1$ has no prime divisors less than $End(X)+1$ and $f$ has a\ncycle of period $n$, then $f$ has cycles of all periods greater than\n$2End(X)(n-1)$ and topological entropy $h(f)>0$; so if $p$ is the least prime\nnumber greater than $End(X)$ and $f$ has cycles of all periods from 1 to\n$2End(X)(p-1)$, then $f$ has cycles of all periods (this verifies a conjecture\nof Misiurewicz for tree maps). Together with the spectral decomposition theorem\nfor graph maps it implies that $h(f)>0$ iff there exists $n$ such that $f$ has\na cycle of period $mn$ for any $m$. We also define {\\it snowflakes} for tree\nmaps and show that $h(f)=0$ iff every cycle of $f$ is a snowflake or iff the\nperiod of every cycle of $f$ is of form $2^lm$ where $m\\le Edg(X)$ is an odd\ninteger with prime divisors less than $End(X)+1$.",
+    "authors": [
+      "Alexander M. Blokh"
+    ],
+    "categories": "math.DS",
+    "published": "1991-07-12T00:00:00Z",
+    "updated": "1991-07-12T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9108002v1",
+    "title": "Hamiltonian construction of W-gravity actions",
+    "abstract": "We show that all W-gravity actions can be easilly constructed and understood\nfrom the point of view of the Hamiltonian formalism for the constrained\nsystems. This formalism also gives a method of constructing gauge invariant\nactions for arbitrary conformally extended algebras.",
+    "authors": [
+      "A. Mikovic"
+    ],
+    "categories": "hep-th",
+    "published": "1991-08-15T16:35:28Z",
+    "updated": "1991-08-15T16:35:28Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9108014v1",
+    "title": "Loop Equations and the Topological Phase of Multi-Cut Matrix Models",
+    "abstract": "We study the double scaling limit of mKdV type, realized in the two-cut\nHermitian matrix model. Building on the work of Periwal and Shevitz and of\nNappi, we find an exact solution including all odd scaling operators, in terms\nof a hierarchy of flows of $2\\times 2$ matrices. We derive from it loop\nequations which can be expressed as Virasoro constraints on the partition\nfunction. We discover a ``pure topological\" phase of the theory in which all\ncorrelation functions are determined by recursion relations. We also examine\nmacroscopic loop amplitudes, which suggest a relation to 2D gravity coupled to\ndense polymers.",
+    "authors": [
+      "C. Crnkovic",
+      "M. Douglas",
+      "G. Moore"
+    ],
+    "categories": "hep-th",
+    "published": "1991-08-22T23:44:00Z",
+    "updated": "1991-08-22T23:44:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9108018v1",
+    "title": "Real Forms of Complex Quantum Anti de Sitter Algebra $U_q (Sp(4,C))$ and\n  their Contraction Schemes",
+    "abstract": "We describe four types of inner involutions of the Cartan-Weyl basis\nproviding (for $ |q|=1$ and $q$ real) three types of real quantum Lie algebras:\n$U_{q}(O(3,2))$ (quantum D=4 anti-de-Sitter), $U_{q}(O(4,1))$ (quantum D=4\nde-Sitter) and $U_{q}(O(5))$. We give also two types of inner involutions of\nthe Cartan-Chevalley basis of $U_{q}(Sp(4;C))$ which can not be extended to\ninner involutions of the Cartan-Weyl basis. We outline twelve contraction\nschemes for quantum D=4 anti-de-Sitter algebra. All these contractions provide\nfour commuting translation generators, but only two (one for $ |q|=1$, second\nfor $q$ real) lead to the quantum \\po algebra with an undeformed space\nrotations O(3) subalgebra.",
+    "authors": [
+      "J. Lukierski",
+      "A. Novicki",
+      "H. Ruegg"
+    ],
+    "categories": "hep-th",
+    "published": "1991-08-23T14:16:00Z",
+    "updated": "1991-08-23T14:16:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9108021v2",
+    "title": "The big picture",
+    "abstract": "We discuss the conformal field theory and string field theory of the NSR\nsuperstring using a BRST operator with a nonminimal term, which allows all\nbosonic ghost modes to be paired into creation and annihilation operators.\nVertex operators for the Neveu-Schwarz and Ramond sectors have the same ghost\nnumber, as do string fields. The kinetic and interaction terms are the same for\nNeveu-Schwarz as for Ramond string fields, so spacetime supersymmetry is closer\nto being manifest. The kinetic terms and supersymmetry don't mix levels,\nsimplifying component analysis and gauge fixing.",
+    "authors": [
+      "N. Berkovits",
+      "M. T. Hatsuda",
+      "W. Siegel"
+    ],
+    "categories": "hep-th",
+    "published": "1991-08-26T21:15:24Z",
+    "updated": "1992-05-28T16:59:14Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9108023v1",
+    "title": "Fock space resolutions of the Virasoro highest weight modules with c<=1",
+    "abstract": "We extend Felder's construction of Fock space resolutions for the Virasoro\nminimal models to all irreducible modules with $c\\leq 1$. In particular, we\nprovide resolutions for the representations corresponding to the boundary and\nexterior of the Kac table.",
+    "authors": [
+      "Peter Bouwknegt",
+      "Jim McCarthy",
+      "Krzysztof Pilch"
+    ],
+    "categories": "hep-th",
+    "published": "1991-08-27T11:44:52Z",
+    "updated": "1991-08-27T11:44:52Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109009v1",
+    "title": "Bi-Hamiltonian Sturcture of Super KP Hierarchy",
+    "abstract": "We obtain the bi-Hamiltonian structure of the super KP hierarchy based on the\neven super KP operator $\\Lambda = \\theta^{2} + \\sum^{\\infty}_{i=-2}U_{i}\n\\theta^{-i-1}$, as a supersymmetric extension of the ordinary KP bi-Hamiltonian\nstructure. It is expected to give rise to a universal super $W$-algebra\nincorporating all known extended superconformal $W_{N}$ algebras by reduction.\nWe also construct the super BKP hierarchy by imposing a set of anti-self-dual\nconstraints on the super KP hierarchy.",
+    "authors": [
+      "Feng Yu"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-06T03:37:07Z",
+    "updated": "1991-09-06T03:37:07Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109012v1",
+    "title": "Is S=1 for c=1?",
+    "abstract": "The $c=1$ string in the Liouville field theory approach is shown to possess a\nnontrivial tree-level $S$-matrix which satisfies factorization property implied\nby unitary, if all the extra massive physical states are included.",
+    "authors": [
+      "D. Minic",
+      "Z. Yang"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-10T16:31:00Z",
+    "updated": "1991-09-10T16:31:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109029v1",
+    "title": "Beyond the Large N Limit: Non-linear W(infinity) as symmetry of the\n  SL(2,R)/U(1) coset model",
+    "abstract": "We show that the symmetry algebra of the $SL(2,R)_{k}/U(1)$ coset model is a\nnon-linear deformation of $W_{\\infty}$, characterized by $k$. This is a\nuniversal $W$-algebra which linearizes in the large $k$ limit and truncates to\n$W_{N}$ for $k=-N$. Using the theory of non-compact parafermions we construct a\nfree field realization of the non-linear $W_{\\infty}$ in terms of two bosons\nwith background charge. The $W$-characters of all unitary $SL(2,R)/U(1)$\nrepresentations are computed. Applications to the physics of 2-d black hole\nbackgrounds are also discussed and connections with the KP approach to $c=1$\nstring theory are outlined.",
+    "authors": [
+      "I. Bakas",
+      "E. Kiritsis"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-18T12:05:03Z",
+    "updated": "1991-09-18T12:05:03Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109028v1",
+    "title": "New Special Operators in $W$-Gravity Theories",
+    "abstract": "We find new special physical operators of $W_3 -$gravity having non trivial\nghost sectors. Some of these operators may be viewed as the liouville dressings\nof the energy operator of the Ising model coupled to {\\it 2d~gravity} and this\nfills in a gap in the connection between pure $W_3 -$gravity and Ising model\ncoupled to 2d gravity found in our previous work. We formulate a selection rule\nrequired for the calculation of correlators in $W -$gravity theories. Using\nthis rule, we construct the non ghost part of the new operators of $W_N\n-$gravity and find that they represent the $(N , N+1)$ minimal model operators\nfrom both inside and outside the minimal table. Along the way we obtain the\ncanonical spectrum of $W_N -$gravity for all $N$ .",
+    "authors": [
+      "S. Kalyana Rama"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-18T13:28:00Z",
+    "updated": "1991-09-18T13:28:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109036v1",
+    "title": "Batalin-Vilkovisky Lagrangian Quantisation",
+    "abstract": "The Lagrangian Batalin-Vilkovisky (BV) formalism gives the rules for the\nquantisation of a general class of gauge theories which contain all the\ntheories known up to now. It does, however, not only give a recipe to obtain a\ngauge fixed action, but also gives a nice understanding of the mechanism behind\ngauge fixing. It moreover brings together a lot of previous knowledge and\nrecipes in one main concept~: the canonical transformations. We explain the\nessentials of this formalism and give related results on the superparticle.\nAlso anomalies (in general functions of fields and antifields) can be obtained\nin this formalism, and it gives the relation between anomalies in different\ngauges. A Pauli-Villars scheme can be used to obtain a regularised definition\nof the expressions at the one loop level. The calculations become similar to\nthose of Fujikawa with the extra freedom of using arbitrary variables. A\ndiscrepancy between anomalies in light-cone gauge of the Green-Schwarz\nsuperstring and in the semi-light-cone gauge is discussed.",
+    "authors": [
+      "Antoine Van Proeyen"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-20T15:22:47Z",
+    "updated": "1991-09-20T15:22:47Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109041v1",
+    "title": "Renormalization Group Patterns and C-Theorem in More Than Two Dimensions",
+    "abstract": "We elaborate on a previous attempt to prove the irreversibility of the\nrenormalization group flow above two dimensions. This involves the construction\nof a monotonically decreasing $c$-function using a spectral representation. The\nmissing step of the proof is a good definition of this function at the fixed\npoints. We argue that for all kinds of perturbative flows the $c$-function is\nwell-defined and the $c$-theorem holds in any dimension. We provide examples in\nmulticritical and multicomponent scalar theories for dimension $2<d<4$. We also\ndiscuss the non-perturbative flows in the yet unsettled case of the $O(N)$\nsigma-model for $2\\leq d\\leq 4$ and large $N$.",
+    "authors": [
+      "Andrea Cappelli",
+      "José Ignacio Latorre",
+      "Xavier Vilasis-Cardona"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-24T16:24:55Z",
+    "updated": "1991-09-24T16:24:55Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109045v2",
+    "title": "Note on Discrete Gauge Anomalies",
+    "abstract": "We consider the probem of gauging discrete symmetries. All valid constraints\non such symmetries can be understood in the low energy theory in terms of\ninstantons. We note that string perturbation theory often exhibits global\ndiscrete symmetries, which are broken non-perturbatively.",
+    "authors": [
+      "T. Banks",
+      "M. Dine"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-24T19:44:00Z",
+    "updated": "1991-10-02T18:45:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109046v1",
+    "title": "Hermitian vs. Anti-Hermitian 1-Matrix Models and Their Hierarchies",
+    "abstract": "Building on a recent work of \\v C. Crnkovi\\'c, M. Douglas and G. Moore, a\nstudy of multi-critical multi-cut one-matrix models and their associated\n$sl(2,C)$ integrable hierarchies, is further pursued. The double scaling limits\nof hermitian matrix models with different scaling ans\\\"atze, lead, to the KdV\nhierarchy, to the modified KdV hierarchy and part of the non-linear\nSchr\\\"odinger hierarchy. Instead, the anti-hermitian matrix model, in the\ntwo-arc sector, results in the Zakharov-Shabat hierarchy, which contains both\nKdV and mKdV as reductions. For all the hierarchies, it is found that the\nVirasoro constraints act on the associated tau-functions. Whereas it is known\nthat the ZS and KdV models lead to the Virasoro constraints of an $sl(2,C)$\nvacuum, we find that the mKdV model leads to the Virasoro constraints of a\nhighest weight state with arbitrary conformal dimension.",
+    "authors": [
+      "Timothy Hollowood",
+      "Luis Miramontes",
+      "Andrea Pasquinucci",
+      "Chiara Nappi"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-24T22:32:24Z",
+    "updated": "1991-09-24T22:32:24Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9109057v1",
+    "title": "On the possibility of $Z_N$ exotic supersymmetry in two dimensional\n  Conformal Field Theory",
+    "abstract": "We investigate the possibility to construct extended parafermionic conformal\nalgebras whose generating current has spin $1+\\frac{1}{K}$, generalizing the\nsuperconformal (spin 3/2) and the Fateev Zamolodchikov (spin 4/3) algebras.\nModels invariant under such algebras would possess $Z_K$ exotic supersymmetries\nsatisfying (supercharge)$^K$ = (momentum). However, we show that for $K=4$ this\nnew algebra allows only for models at $c=1$, for $K=5$ it is a trivial\nrephrasing of the ordinary $Z_5$ parafermionic model, for $K=6,7$ (and,\nrequiring unitarity, for all larger $K$) such algebras do not exist.\nImplications of this result for existence of exotic supersymmetry in two\ndimensional field theory are discussed.",
+    "authors": [
+      "F. Ravanini"
+    ],
+    "categories": "hep-th",
+    "published": "1991-09-30T10:25:00Z",
+    "updated": "1991-09-30T10:25:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9110003v1",
+    "title": "Field Identification in Non-Unitary Diagonal Cosets",
+    "abstract": "We study the nonunitary diagonal cosets constructed from admissible\nrepresentations of Kac-Moody algebras at fractional level, with an emphasis on\nthe question of field identification. Generic classes of field identifications\nare obtained from the analysis of the modular S matrix. These include the usual\nclass related to outer automorphisms, as well as some intrinsically nonunitary\nfield identifications. They allow for a simple choice of coset field\nrepresentatives where all field components of the coset are associated with\nintegrable finite weights.",
+    "authors": [
+      "Pierre Mathieu",
+      "David Senechal",
+      "Mark Walton"
+    ],
+    "categories": "hep-th",
+    "published": "1991-10-01T14:14:48Z",
+    "updated": "1991-10-01T14:14:48Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9110018v1",
+    "title": "RG flows of non-diagonal minimal models perturbed by $φ_{1,3}$",
+    "abstract": "Studying perturbatively, for large m, the torus partition function of both\n(A,A) and (A,D) series of minimal models in the Cappelli, Itzykson, Zuber\nclassification, deformed by the least relevant operator $\\phi_{(1,3)}$, we\ndisentangle the structure of $\\phi_{1,3}$ flows. The results are conjectured on\nreasonable ground to be valid for all m. They show that (A,A) models always\nflow to (A,A) and (A,D) ones to (A,D). No hopping between the two series is\npossible. Also, we give arguments that there exist 3 isolated flows\n(E,A)-->(A,E) that, together with the two series, should exhaust all the\npossible $\\phi_{1,3}$ flows. Conservation (and symmetry breaking) of non-local\ncurrents along the flows is discussed and put in relation to the A,D,E\nclassification.",
+    "authors": [
+      "F. Ravanini"
+    ],
+    "categories": "hep-th",
+    "published": "1991-10-04T18:54:00Z",
+    "updated": "1991-10-04T18:54:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9110021v1",
+    "title": "Gauge Theory Formulation of the $c=1$ Matrix Model: Symmetries and\n  Discrete States",
+    "abstract": "We present a non-relativistic fermionic field theory in 2-dimensions coupled\nto external gauge fields. The singlet sector of the $c=1$ matrix model\ncorresponds to a specific external gauge field. The gauge theory is\none-dimensional (time) and the space coordinate is treated as a group index.\nThe generators of the gauge algebra are polynomials in the single particle\nmomentum and position operators and they form the group $W^{(+)}_{1+\\infty}$.\nThere are corresponding Ward identities and residual gauge transformations that\nleave the external gauge fields invariant. We discuss the realization of these\nresidual symmetries in the Minkowski time theory and conclude that the\nsymmetries generated by the polynomial basis are not realized. We motivate and\npresent an analytic continuation of the model which realises the group of\nresidual symmetries. We consider the classical limit of this theory and make\nthe correspondence with the discrete states of the $c=1$ (Euclidean time)\nLiouville theory. We explain the appearance of the $SL(2)$ structure in\n$W^{(+)}_{1+\\infty}$. We also present all the Euclidean classical solutions and\nthe classical action in the classical phase space. A possible relation of this\ntheory to the $N=2$ string theory and also self-dual Einstein gravity in\n4-dimensions is pointed out.",
+    "authors": [
+      "Sumit R. Das",
+      "Avinash Dhar",
+      "Gautam Mandal",
+      "Spenta R. Wadia"
+    ],
+    "categories": "hep-th",
+    "published": "1991-10-07T19:59:00Z",
+    "updated": "1991-10-07T19:59:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9110029v1",
+    "title": "Correlators of Special States in c=1 Liouville Theory",
+    "abstract": "We generalize the ground ring structure to all special BRST invariant\noperators in the right branch in the c=1 Liouville theory. We also discuss\ncorrelation functions of special states on the sphere.",
+    "authors": [
+      "Miao Li"
+    ],
+    "categories": "hep-th",
+    "published": "1991-10-11T23:43:25Z",
+    "updated": "1991-10-11T23:43:25Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9110060v1",
+    "title": "Complete structure of Z_n Yukawa couplings",
+    "abstract": "We give the complete twisted Yukawa couplings for all the Z_n orbifold\nconstructions in the most general case, i.e. when orbifold deformations are\nconsidered. This includes a certain number of tasks. Namely, determination of\nthe allowed couplings, calculation of the explicit dependence of the Yukawa\ncouplings values on the moduli expectation values (i.e. the parameters\ndetermining the size and shape of the compactified space), etc. The final\nexpressions are completely explicit, which allows a counting of the DIFFERENT\nYukawa couplings for each orbifold (with and without deformations). This\nknowledge is crucial to determine the phenomenological viability of the\ndifferent schemes, since it is directly related to the fermion mass hierarchy.\nOther facts concerning the phenomenological profile of Z_n orbifolds are also\ndiscussed, e.g. the existence of non--diagonal entries in the fermion mass\nmatrices, which is related to a non--trivial structure of the\nKobayashi--Maskawa matrix. Finally some theoretical results are given, e.g. the\nno--participation of (1,2) moduli in twisted Yukawa couplings. Likewise, (1,1)\nmoduli associated with fixed tori which are involved in the Yukawa coupling, do\nnot affect the value of the coupling.",
+    "authors": [
+      "J. A. Casas",
+      "F. Gomez",
+      "C. Muñoz"
+    ],
+    "categories": "hep-th",
+    "published": "1991-10-21T13:05:12Z",
+    "updated": "1991-10-21T13:05:12Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9110070v1",
+    "title": "Heterotic instantons and solitons in anomaly-free supergravity",
+    "abstract": "We extend the classical heterotic instanton solutions to all orders in\n$\\alpha'$ using the equations of anomaly-free supergravity, and discuss the\nrelation between these equations and the string theory $\\beta$-functions.",
+    "authors": [
+      "I. Pesando",
+      "A. Tollsten"
+    ],
+    "categories": "hep-th",
+    "published": "1991-10-29T11:50:27Z",
+    "updated": "1991-10-29T11:50:27Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111014v1",
+    "title": "Scattering and Thermodynamics of Fractionally-Charged Supersymmetric\n  Solitons",
+    "abstract": "We show that there are solitons with fractional fermion number in integrable\n$N$=2 supersymmetric models. We obtain the soliton S-matrix for the minimal,\n$N$=2 supersymmetric theory perturbed in the least relevant chiral primary\nfield, the $\\Phi _{(1,3)}$ superfield. The perturbed theory has a nice\nLandau-Ginzburg description with a Chebyshev polynomial superpotential. We show\nthat the S-matrix is a tensor product of an associated ordinary $ADE$ minimal\nmodel S-matrix with a supersymmetric part. We calculate the ground-state energy\nin these theories and in the analogous $N$=1 case and $SU(2)$ coset models. In\nall cases, the ultraviolet limit is in agreement with the conformal field\ntheory.",
+    "authors": [
+      "P. Fendley",
+      "K. Intriligator"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-07T00:33:52Z",
+    "updated": "1991-11-07T00:33:52Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111015v1",
+    "title": "Differential Renormalization of the Wess-Zumino Model",
+    "abstract": "We apply the recently developed method of differential renormalization to the\nWess-Zumino model. From the explicit calculation of a finite, renormalized\neffective action, the $\\beta$-function is computed to three loops and is found\nto agree with previous existing results. As a further, nontrivial check of the\nmethod, the Callan-Symanzik equations are also verified to that loop order.\nFinally, we argue that differential renormalization presents advantages over\nother superspace renormalization methods, in that it avoids both the\nambiguities inherent to supersymmetric regularization by dimensional reduction\n(SRDR), and the complications of virtually all other supersymmetric regulators.",
+    "authors": [
+      "Peter E. Haagensen"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-07T12:06:41Z",
+    "updated": "1991-11-07T12:06:41Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111029v1",
+    "title": "Isolated States and the Classical Phase Spase of 2-d String Theory",
+    "abstract": "We investigate the classical phase space of 2-d string theory. We derive the\nlinearised covariant equations for the spacetime fields by considering the most\ngeneral deformation of the energy-momentum tensor which describes $c=1$ matter\nsystem coupled to 2-d gravity and by demanding that it respect conformal\ninvariance. We derive the gauge invariances of the theory, and so investigate\nthe classical phase space, defined as the space of all solutions to the\nequations of motion modulo gauge transformations. We thus clarify the origins\nof two classes of isolated states.",
+    "authors": [
+      "Mark Evans",
+      "Ioannis Giannakis"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-14T18:48:00Z",
+    "updated": "1991-11-14T18:48:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111037v1",
+    "title": "Unification of All String Models with $c<1$",
+    "abstract": "A 1-matrix model is proposed, which nicely interpolates between\ndouble-scaling continuum limits of all multimatrix models. The interpolating\npartition function is always a KP $\\tau $-function and always obeys ${\\cal\nL}_{-1}$-constraint and string equation. Therefore this model can be considered\nas a natural unification of all models of 2d-gravity (string models) with\n$c\\leq 1.$",
+    "authors": [
+      "S. Kharchev",
+      "A. Marshakov",
+      "A. Mironov",
+      "A. Morozov",
+      "A. Zabrodin"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-20T16:39:00Z",
+    "updated": "1991-11-20T16:39:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111043v2",
+    "title": "An introduction to quantized Lie groups and algebras",
+    "abstract": "We give a selfcontained introduction to the theory of quantum groups\naccording to Drinfeld highlighting the formal aspects as well as the\napplications to the Yang-Baxter equation and representation theory.\nIntroductions to Hopf algebras, Poisson structures and deformation quantization\nare also provided. After having defined Poisson-Lie groups we study their\nrelation to Lie-bi algebras and the classical Yang-Baxter equation. Then we\nexplain in detail the concept of quantization for them. As an example the\nquantization of $sl_2$ is explicitly carried out. Next we show how quantum\ngroups are related to the Yang-Baxter equation and how they can be used to\nsolve it. Using the quantum double construction we explicitly construct the\nuniversal $R$-matrix for the quantum $sl_2$ algebra. In the last section we\ndeduce all finite dimensional irreducible representations for $q$ a root of\nunity. We also give their tensor product decomposition (fusion rules) which is\nrelevant to conformal field theory.",
+    "authors": [
+      "T. Tjin"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-21T14:18:58Z",
+    "updated": "1991-11-26T13:24:09Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111048v1",
+    "title": "Ground Rings and Their Modules in 2D Gravity with $c\\le 1$ Matter",
+    "abstract": "All solvable two-dimensional quantum gravity models have non-trivial BRST\ncohomology with vanishing ghost number. These states form a ring and all the\nother states in the theory fall into modules of this ring. The relations in the\nring and in the modules have a physical interpretation. The existence of these\nrings and modules leads to nontrivial constraints on the correlation functions\nand goes a long way toward solving these theories in the continuum approach.",
+    "authors": [
+      "D. Kutasov",
+      "E. Martinec",
+      "N. Seiberg"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-23T21:52:35Z",
+    "updated": "1991-11-23T21:52:35Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111049v1",
+    "title": "Operator Product Expansion and Topological States in $c = 1$ Matter\n  Coupled to 2-D Gravity",
+    "abstract": "Factorization of the $N$-tachyon amplitudes in two-dimensional $c=1$ quantum\ngravity is studied by means of the operator product expansion of vertex\noperators after the Liouville zero mode integration. Short-distance\nsingularities between two tachyons with opposite chiralities account for all\nsingularities in the $N$-tachyon amplitudes. Although the factorization is\nvalid, other possible short-distance singularities corresponding to other\ncombinations of vertex operators are absent since the residue vanishes. Apart\nfrom the tachyon states, there are infinitely many topological states\ncontributing to the intermediate states. This is a more detailed account of our\nshort communication on the factorization.",
+    "authors": [
+      "Norisuke Sakai",
+      "Yoshiaki Tanii"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-25T02:33:23Z",
+    "updated": "1991-11-25T02:33:23Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111056v1",
+    "title": "Evanescent Black Holes",
+    "abstract": "A renormalizable theory of quantum gravity coupled to a dilaton and conformal\nmatter in two space-time dimensions is analyzed. The theory is shown to be\nexactly solvable classically. Included among the exact classical solutions are\nconfigurations describing the formation of a black hole by collapsing matter.\nThe problem of Hawking radiation and backreaction of the metric is analyzed to\nleading order in a $1/N$ expansion, where $N$ is the number of matter fields.\nThe results suggest that the collapsing matter radiates away all of its energy\nbefore an event horizon has a chance to form, and black holes thereby disappear\nfrom the quantum mechanical spectrum. It is argued that the matter\nasymptotically approaches a zero-energy ``bound state'' which can carry global\nquantum numbers and that a unitary $S$-matrix including such states should\nexist.",
+    "authors": [
+      "C. Callan",
+      "S. Giddings",
+      "J. Harvey",
+      "A. Strominger"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-28T02:55:05Z",
+    "updated": "1991-11-28T02:55:05Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9111061v1",
+    "title": "c=5/2 Free Fermion Model of WB_{2} Algebra",
+    "abstract": "We investigate the explicit construction of the $WB_{2}$ algebra, which is\nclosed and associative for all values of the central charge $c$, using the\nJacobi identity and show the agreement with the results studied previously.\nThen we illustrate a realization of $c=\\frac{5}{2}$ free fermion model, which\nis $m \\rightarrow \\infty$ limit of unitary minimal series, $c ( WB_{2}\n)=\\frac{5}{2} (1-\\frac{12}{ (m+3)(m+4) })$ based on the cosets $( \\hat{B_{2}}\n\\oplus \\hat{B_{2}}, \\hat{B_{2} })$ at level $(1,m).$ We confirm by explicit\ncomputations that the bosonic currents in the $ WB_{2}$ algebra are indeed\ngiven by the Casimir operators of $\\hat{B_{2}}$ .",
+    "authors": [
+      "Changhyun Ahn"
+    ],
+    "categories": "hep-th",
+    "published": "1991-11-28T18:41:36Z",
+    "updated": "1991-11-28T18:41:36Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112006v1",
+    "title": "Classification of Ten-Dimensional Heterotic Strings",
+    "abstract": "Progress towards the classification of the meromorphic $c=24$ conformal field\ntheories is reported. It is shown if such a theory has any spin-1 currents, it\nis either the Leech lattice CFT, or it can be written as a tensor product of\nKac-Moody algebras with total central charge 24. The total number of\ncombinations of Kac-Moody algebras for which meromorphic $c=24$ theories may\nexist is 221. The next step towards classification is to obtain all modular\ninvariant combinations of Kac-Moody characters. The presently available results\nare sufficient to obtain a complete list of all ten-dimensional heterotic\nstrings. Furthermore there are strong indications for the existence of several\n(probably at least 20) new meromorphic $c=24$ theories.",
+    "authors": [
+      "A. N. Schellekens"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-04T10:43:46Z",
+    "updated": "1991-12-04T10:43:46Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112009v1",
+    "title": "Nonlinear $\\hat{W}_{\\infty}$ Current Algebra in the SL(2,R)/U(1) Coset\n  Model",
+    "abstract": "Previously we have established that the second Hamiltonian structure of the\nKP hierarchy is a nonlinear deformation, called $\\hat{W}_{\\infty}$, of the\nlinear, centerless $W_{\\infty}$ algebra. In this letter we present a free-field\nrealization for all generators of $\\hat{W}_{\\infty}$ in terms of two scalars as\nwell as an elegant generating function for the $\\hat{W}_{\\infty}$ currents in\nthe classical conformal $SL(2,R)/U(1)$ coset model. After quantization, a\nquantum deformation of $\\hat{W}_{\\infty}$ appears as the hidden current algebra\nin this model. The $\\hat{W}_{\\infty}$ current algebra results in an infinite\nset of commuting conserved charges, which might give rise to $W$-hair for the\n2d black hole arising in the corresponding string theory at level $k=9/4$.",
+    "authors": [
+      "Feng Yu",
+      "Yong-Shi Wu"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-04T20:58:37Z",
+    "updated": "1991-12-04T20:58:37Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112013v1",
+    "title": "Matrix models of 2d gravity",
+    "abstract": "These are introductory lectures for a general audience that give an overview\nof the subject of matrix models and their application to random surfaces, 2d\ngravity, and string theory. They are intentionally 1.5 years out of date.\n  0. Canned Diatribe, Introduction, and Apologies\n  1. Discretized surfaces, matrix models, and the continuum limit\n  2. All genus partition functions\n  3. KdV equations and other models\n  4. Quick tour of Liouville theory",
+    "authors": [
+      "P. Ginsparg"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-06T17:39:49Z",
+    "updated": "1991-12-06T17:39:49Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112018v1",
+    "title": "Superloop Equations and Two Dimensional Supergravity",
+    "abstract": "We propose a discrete model whose continuum limit reproduces the string\nsusceptibility and the scaling dimensions of $(2,4m)$-minimal superconformal\nmodels coupled to $2D$-supergravity. The basic assumption in our presentation\nis a set of super-Virasoro constraints imposed on the partition function. We\nrecover the Neveu-Schwarz and Ramond sectors of the theory, and we are also\nable to evaluate all planar loop correlation functions in the continuum limit.\nWe find evidence to identify the integrable hierarchy of non-linear equations\ndescribing the double scaling limit as a supersymmetric generalization of KP\nstudied by Rabin.",
+    "authors": [
+      "L. Alvarez-Gaume",
+      "H. Itoyama",
+      "J. L. Manes",
+      "A. Zadra"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-09T17:18:03Z",
+    "updated": "1991-12-09T17:18:03Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112022v2",
+    "title": "New fusion rules and $\\cR$-matrices for $SL(N)_q$ at roots of unity",
+    "abstract": "We derive fusion rules for the composition of $q$-deformed classical\nrepresentations (arising in tensor products of the fundamental representation)\nwith semi-periodic representations of $SL(N)_q$ at roots of unity. We obtain\nfull reducibility into semi-periodic representations. On the other hand,\nheterogeneous $\\cR$-matrices which intertwine tensor products of periodic or\nsemi-periodic representations with $q$-deformed classical representations are\ngiven. These $\\cR$-matrices satisfy all the possible Yang Baxter equations with\none another and, when they exist, with the $\\cR$-matrices intertwining\nhomogeneous tensor products of periodic or semi-periodic representations. This\ncompatibility between these two kinds of representations has never been used in\nphysical models.",
+    "authors": [
+      "Daniel Arnaudon"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-10T14:06:48Z",
+    "updated": "1992-02-11T14:50:19Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201235v2",
+    "title": "On the distribution of Sidon series",
+    "abstract": "Let B denote an arbitrary Banach space, G a compact abelian group with Haar\nmeasure $\\mu$ and dual group $\\Gamma$. Let E be a Sidon subset of $\\Gamma$ with\nSidon constant S(E). Let r_n denote the n-th Rademacher function on [0, 1]. We\nshow that there is a constant c, depending only on S(E), such that, for all\n$\\alpha > 0$: c^{-1}P[| \\sum_{n=1}^Na_nr_n| >= c \\alpha ] <= \\mu[|\n\\sum_{n=1}^Na_n\\gamma_n| >= \\alpha ] <= cP [|\\sum_{n=1}^Na_nr_n| >= c^{-1}\n\\alpha ]",
+    "authors": [
+      "Nakhlé Asmar",
+      "Stephen J. Montgomery-Smith"
+    ],
+    "categories": "math.FA",
+    "published": "1991-12-10T19:15:54Z",
+    "updated": "1999-12-06T04:33:37Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112024v2",
+    "title": "Recursion relations in semirigid topological gravity",
+    "abstract": "A field theoretical realization of topological gravity is discussed in the\nsemirigid geometry context. In particular, its topological nature is given by\nthe relation between deRham cohomology and equivariant BRST cohomology and the\nfact that all but one of the physical operators are BRST-exact. The puncture\nequation and the dilaton equation of pure topological gravity are reproduced,\nfollowing reference \\dil.",
+    "authors": [
+      "Eugene Wong"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-10T23:22:04Z",
+    "updated": "1991-12-11T21:40:19Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112027v2",
+    "title": "Special geometry, cubic polynomials and homogeneous quaternionic spaces",
+    "abstract": "The existing classification of homogeneous quaternionic spaces is not\ncomplete. We study these spaces in the context of certain $N=2$ supergravity\ntheories, where dimensional reduction induces a mapping between {\\em special}\nreal, K\\\"ahler and quaternionic spaces. The geometry of the real spaces is\nencoded in cubic polynomials, those of the K\\\"ahler and quaternionic manifolds\nin homogeneous holomorphic functions of second degree. We classify all cubic\npolynomials that have an invariance group that acts transitively on the real\nmanifold. The corresponding K\\\"ahler and quaternionic manifolds are then\nhomogeneous. We find that they lead to a well-defined subset of the normal\nquaternionic spaces classified by \\Al\\ (and the corresponding special K\\\"ahler\nspaces given by Cecotti), but there is a new class of rank-3 spaces of\nquaternionic dimension larger than 3. We also point out that some of the rank-4\n\\Al\\ spaces were not fully specified and correspond to a finite variety of\ninequivalent spaces. A simpler version of the equation that underlies the\nclassification of this paper also emerges in the context of $W_3$ algebras.",
+    "authors": [
+      "B. de Wit",
+      "A. Van Proeyen"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-12T11:28:19Z",
+    "updated": "1991-12-13T18:13:41Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112032v1",
+    "title": "Multiple Crossover Phenomena and Scale Hopping in Two Dimensions",
+    "abstract": "We study the renormalization group for nearly marginal perturbations of a\nminimal conformal field theory M_p with p >> 1. To leading order in\nperturbation theory, we find a unique one-parameter family of ``hopping\ntrajectories'' that is characterized by a staircase-like renormalization group\nflow of the C-function and the anomalous dimensions and that is related to a\nrecently solved factorizable scattering theory. We argue that this system is\ndescribed by interactions of the form t phi_{(1,3)} - t' \\phi_{(3,1)} . As a\nfunction of the relevant parameter t, it undergoes a phase transition with new\ncritical exponents simultaneously governed by all fixed points M_p, M_{p-1},\n..., M_3. Integrable lattice models represent different phases of the same\nintegrable system that are distinguished by the sign of the irrelevant\nparameter t'.",
+    "authors": [
+      "Michael Lassig"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-13T22:06:31Z",
+    "updated": "1991-12-13T22:06:31Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112044v1",
+    "title": "$O(d,d)$-Covariant String Cosmology",
+    "abstract": "The recently discovered $O(d,d)$ symmetry of the space of slowly varying\ncosmological string vacua in $d+1$ dimensions is shown to be preserved in the\npresence of bulk string matter. The existence of $O(d,d)$ conserved currents\nallows all the equations of string cosmology to be reduced to first-order\ndifferential equations. The perfect-fluid approximation is not\n$O(d,d)$-invariant, implying that stringy fluids possess in general a\nnon-vanishing viscosity.",
+    "authors": [
+      "M. Gasperini",
+      "G. Veneziano"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-17T11:41:00Z",
+    "updated": "1991-12-17T11:41:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112063v1",
+    "title": "Integrability of the quantum KdV equation at c = -2",
+    "abstract": "We present a simple a direct proof of the complete integrability of the\nquantum KdV equation at $c=-2$, with an explicit description of all the\nconservation laws.",
+    "authors": [
+      "P. Di Francesco",
+      "P. Mathieu",
+      "D. Senechal"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-20T18:57:42Z",
+    "updated": "1991-12-20T18:57:42Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9112066v1",
+    "title": "The Solution Space of the Unitary Matrix Model String Equation and the\n  Sato Grassmannian",
+    "abstract": "The space of all solutions to the string equation of the symmetric unitary\none-matrix model is determined. It is shown that the string equation is\nequivalent to simple conditions on points $V_1$ and $V_2$ in the big cell $\\Gr$\nof the Sato Grassmannian $Gr$. This is a consequence of a well-defined\ncontinuum limit in which the string equation has the simple form $\\lb \\cp\n,\\cq_- \\rb =\\hbox{\\rm 1}$, with $\\cp$ and $\\cq_-$ $2\\times 2$ matrices of\ndifferential operators. These conditions on $V_1$ and $V_2$ yield a simple\nsystem of first order differential equations whose analysis determines the\nspace of all solutions to the string equation. This geometric formulation leads\ndirectly to the Virasoro constraints $\\L_n\\,(n\\geq 0)$, where $\\L_n$ annihilate\nthe two modified-KdV $\\t$-functions whose product gives the partition function\nof the Unitary Matrix Model.",
+    "authors": [
+      "Konstantinos N. Anagnostopoulos",
+      "Mark J. Bowick",
+      "Albert Schwarz"
+    ],
+    "categories": "hep-th",
+    "published": "1991-12-21T03:29:46Z",
+    "updated": "1991-12-21T03:29:46Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201255v1",
+    "title": "A cohomology for vector valued differential forms",
+    "abstract": "A rather simple natural outer derivation of the graded Lie algebra of all\nvector valued differential forms with the Fr\\\"olicher-Nijenhuis bracket turns\nout to be a differential and gives rise to a cohomology of the manifold, which\nis functorial under local diffeomorphisms. This cohomology is determined as the\ndirect product of the de Rham cohomology space and the graded Lie algebra of\n\"traceless\" vector valued differential forms, equipped with a new natural\ndifferential concomitant as graded Lie bracket. We find two graded Lie algebra\nstructures on the space of differential forms. Some consequences and related\nresults are also discussed.",
+    "authors": [
+      "Peter W. Michor",
+      "Hubert Schicketanz"
+    ],
+    "categories": "math.DG",
+    "published": "1992-01-01T00:00:00Z",
+    "updated": "1992-01-01T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201258v1",
+    "title": "Pseudoriemannian metrics on spaces of bilinear structures",
+    "abstract": "The space of all non degenerate bilinear structures on a manifold $M$ carries\na one parameter family of pseudo Riemannian metrics. We determine the geodesic\nequation, covariant derivative, curvature, and we solve the geodesic equation\nexplicitly. Each space of pseudo Riemannian metrics with fixed signature is a\ngeodesically closed submanifold. The space of non degenerate 2-forms is also a\ngeodesically closed submanifold. Then we show that, if we fix a distribution on\n$M$, the space of all Riemannia metrics splits as the product of three spaces\nwhich are everywhere mutually orthogonal, for the usual metric. We investigate\nthis situation in detail.",
+    "authors": [
+      "Olga Gil-Medrano",
+      "Peter W. Michor",
+      "Martin Neuwirther"
+    ],
+    "categories": "math.DG",
+    "published": "1992-01-01T00:00:00Z",
+    "updated": "1992-01-01T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201259v1",
+    "title": "The Riemannian manifold of all Riemannian metrics",
+    "abstract": "The space of all Riemannian metrics on a smooth second countable finite\ndimensional manifold is itself a smooth manifold modeled on the space of\nsymmetric (0,2)-tensor fields with compact support. It carries a canonical\nRiemannian metric which is invariant under the action of the diffeomorphism\ngroup. We determine its geodesics, exponential mapping, curvature, and Jacobi\nfields in a very explicit manner.",
+    "authors": [
+      "Olga Gil-Medrano",
+      "Peter W. Michor"
+    ],
+    "categories": "math.DG",
+    "published": "1992-01-01T00:00:00Z",
+    "updated": "1992-01-01T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201264v1",
+    "title": "Semistability of amalgamated products, HNN-extensions, and all\n  one-relator groups",
+    "abstract": "The authors announce the following theorem.\n  Theorem 1. If $G=A*_H B$ is an amalgamated product where $A$ and $B$ are\nfinitely presented and semistable at infinity, and $H$ is finitely generated,\nthen $G$ is semistable at infinity. If $G=A*_H$ is an HNN-extension where $A$\nis finitely presented and semistable at infinity, and $H$ is finitely\ngenerated, then $G$ is semistable at infinity.",
+    "authors": [
+      "Michael L. Mihalik",
+      "Steven T. Tschantz"
+    ],
+    "categories": "math.GR",
+    "published": "1992-01-01T00:00:00Z",
+    "updated": "1992-01-01T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201004v1",
+    "title": "The Heterotic Green-Schwarz Superstring on an N=(2,0) Super-Worldsheet",
+    "abstract": "By defining the heterotic Green-Schwarz superstring action on an N=(2,0)\nsuper-worldsheet, rather than on an ordinary worldsheet, many problems with the\ninteracting Green-Schwarz superstring formalism can be solved. In the\nlight-cone approach, superconformally transforming the light-cone\nsuper-worldsheet onto an N=(2,0) super-Riemann surface allows the elimination\nof the non-trivial interaction-point operators that complicate the evaluation\nof scattering amplitudes. In the Polyakov approach, the ten-dimensional\nheterotic Green-Schwarz covariant action defined on an N=(2,0) super-worldsheet\ncan be gauge-fixed to a free-field action with non-anomalous N=(2,0)\nsuperconformal invariance, and integrating the exponential of the covariant\naction over all punctured N=(2,0) super-Riemann surfaces produces scattering\namplitudes that closely resemble amplitudes obtained using the unitary\nlight-cone approach.",
+    "authors": [
+      "Nathan Berkovits"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-03T01:02:01Z",
+    "updated": "1992-01-03T01:02:01Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201005v1",
+    "title": "Ward Identities in Two-Dimensional String Theory",
+    "abstract": "I study the Ward identities of the $w_\\infty$ symmetry of the two-dimensional\nstring theory. It is found that, not just an isolated vertex operator, but also\na number of vertex operators colliding at a point can produce local charge\nnon-conservation. The structure of all such contact terms is determined. As an\napplication, I calculate all the non-vanishing bulk tachyon amplitudes directly\nthrough the Ward identities for a Virasoro subalgebra of the $w_\\infty$.",
+    "authors": [
+      "Igor R. Klebanov"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-03T22:09:04Z",
+    "updated": "1992-01-03T22:09:04Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201201v1",
+    "title": "On the Removable Singularities for Meromorphic Mappings",
+    "abstract": "If E is a nonempty closed subset of the locally finite Hausdorff\n(2n-2)-measure on an n-dimensional complex manifold M and all points of E are\nnonremovable for a meromorphic mapping of M \\ E into a compact K\\\"ahler\nmanifold, then E is a pure (n-1)-dimensional complex analytic subset of M.",
+    "authors": [
+      "E. M. Chirka"
+    ],
+    "categories": "math.CV",
+    "published": "1992-01-06T16:29:58Z",
+    "updated": "1992-01-06T16:29:58Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201009v1",
+    "title": "Large-Small Equivalence in String Theory",
+    "abstract": "The simplest toroidally compactified string theories exhibit a duality\nbetween large and small radii: compactification on a circle, for example, is\ninvariant under R goes to 1/R. Compactification on more general Lorentzian\nlattices (i.e. toroidal compactification in the presence of background metric,\nantisymmetric tensor, and gauge fields) yields theories for which large-small\ninvariance is not so simple. Here an equivalence is demonstrated between large\nand small geometries for all toroidal compactifications. By repeatedly\ntransforming the momentum mode corresponding to the smallest winding length to\nanother mode on the lattice, it is possible to increase the volume to exceed a\nfinite lower bound.",
+    "authors": [
+      "Eva Silverstein"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-08T16:23:00Z",
+    "updated": "1992-01-08T16:23:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201013v1",
+    "title": "Towards unified theory of $2d$ gravity",
+    "abstract": "We introduce a new 1-matrix model with arbitrary potential and the\nmatrix-valued background field. Its partition function is a $\\tau$-function of\nKP-hierarchy, subjected to a kind of ${\\cal L}_{-1}$-constraint. Moreover,\npartition function behaves smoothly in the limit of infinitely large matrices.\nIf the potential is equal to $X^{K+1}$, this partition function becomes a\n$\\tau$-function of $K$-reduced KP-hierarchy, obeying a set of ${\\cal W}\n_K$-algebra constraints identical to those conjectured in \\cite{FKN91} for\ndouble-scaling continuum limit of $(K-1)$-matrix model. In the case of $K=2$\nthe statement reduces to the early established \\cite{MMM91b} relation between\nKontsevich model and the ordinary $2d$ quantum gravity . Kontsevich model with\ngeneric potential may be considered as interpolation between all the models of\n$2d$ quantum gravity with $c<1$ preserving the property of integrability and\nthe analogue of string equation.",
+    "authors": [
+      "S. Kharchev",
+      "A. Marshakov",
+      "A. Mironov",
+      "A. Morozov",
+      "A. Zabrodin"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-08T19:09:00Z",
+    "updated": "1992-01-08T19:09:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201017v2",
+    "title": "A Note on Background (In)dependence",
+    "abstract": "In general quantum systems there are two kinds of spacetime modes, those that\nfluctuate and those that do not. Fluctuating modes have normalizable\nwavefunctions. In the context of 2D gravity and ``non-critical'' string theory\nthese are called macroscopic states. The theory is independent of the initial\nEuclidean background values of these modes. Non-fluctuating modes have\nnon-normalizable wavefunctions and correspond to microscopic states. The theory\ndepends on the background value of these non-fluctuating modes, at least to all\norders in perturbation theory. They are superselection parameters and should\nnot be minimized over. Such superselection parameters are well known in field\ntheory. Examples in string theory include the couplings $t_k$ (including the\ncosmological constant) in the matrix models and the mass of the two-dimensional\nEuclidean black hole. We use our analysis to argue for the finiteness of the\nstring perturbation expansion around these backgrounds.",
+    "authors": [
+      "Nathan Seiberg",
+      "Stephen Shenker"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-09T20:18:07Z",
+    "updated": "1992-01-27T22:20:32Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9201249v1",
+    "title": "Coding and reshaping when there are no sharps",
+    "abstract": "Assuming 0^sharp does not exist, kappa is an uncountable cardinal and for all\ncardinals lambda with kappa <= lambda < kappa^{+ omega}, 2^lambda = lambda^+,\nwe present a ``mini-coding'' between kappa and kappa^{+ omega}. This allows us\nto prove that any subset of kappa^{+ omega} can be coded into a subset, W of\nkappa^+ which, further, ``reshapes'' the interval [kappa, kappa^+), i.e., for\nall kappa < delta < kappa^+, kappa = (card delta)^{L[W cap delta]}. We sketch\ntwo applications of this result, assuming 0^sharp does not exist. First, we\npoint out that this shows that any set can be coded by a real, via a set\nforcing. The second application involves a notion of abstract condensation, due\nto Woodin. Our methods can be used to show that for any cardinal mu,\ncondensation for mu holds in a generic extension by a set forcing.",
+    "authors": [
+      "Saharon Shelah",
+      "Lee Stanley"
+    ],
+    "categories": "math.LO",
+    "published": "1992-01-15T00:00:00Z",
+    "updated": "1992-01-15T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201029v1",
+    "title": "Supersymmetric Black Holes",
+    "abstract": "The effective action of $N=2$, $d=4$ supergravity is shown to acquire no\nquantum corrections in background metrics admitting super-covariantly constant\nspinors. In particular, these metrics include the Robinson-Bertotti metric\n(product of two 2-dimensional spaces of constant curvature) with all 8\nsupersymmetries unbroken. Another example is a set of arbitrary number of\nextreme Reissner-Nordstr\\\"om black holes. These black holes break 4 of 8\nsupersymmetries, leaving the other 4 unbroken.\n  We have found manifestly supersymmetric black holes, which are non-trivial\nsolutions of the flatness condition $\\cd^{2} = 0$ of the corresponding\n(shortened) superspace. Their bosonic part describes a set of extreme\nReissner-Nordstr\\\"om black holes. The super black hole solutions are exact even\nwhen all quantum supergravity corrections are taken into account.",
+    "authors": [
+      "Renata Kallosh"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-15T07:38:00Z",
+    "updated": "1992-01-15T07:38:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201030v1",
+    "title": "Supersymmetric Construction of W-Algebras from Super Toda and Wznw\n  Theories",
+    "abstract": "A systematic construction of super W-algebras in terms of the WZNW model\nbased on a super Lie algebra is presented. These are shown to be the symmetry\nstructure of the super Toda models, which can be obtained from the WZNW theory\nby Hamiltonian reduction. A classification, according to the conformal spin\ndefined by an improved energy-momentum tensor, is dicussed in general terms for\nall super Lie algebras whose simple roots are fermionic . A detailed discussion\nemploying the Dirac bracket structure and an explicit construction of\nW-algebras for the cases of $OSP(1,2)$, $OSP(2,2)$ , $OSP(3,2)$ and $D(2,1 \\mid\n\\alpha )$ are given. The $N=1$ and $N=2$ super conformal algebras are discussed\nin the pertinent cases.",
+    "authors": [
+      "L. A. Ferreira",
+      "J. F. Gomes",
+      "R. M. Ricotta",
+      "A. H. Zimerman"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-16T11:24:00Z",
+    "updated": "1992-01-16T11:24:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201037v1",
+    "title": "String Field Theory for d \\leq 0 Matrix Models via Marinari-Parisi",
+    "abstract": "We generalize the Marinari-Parisi definition for pure two dimensional quantum\ngravity $(k = 2)$ to all non unitary minimal multicritical points $(k \\geq 3)$.\nThe resulting interacting Fermi gas theory is treated in the collective field\nframework. Making use of the fact that the matrices evolve in Langevin time,\nthe Jacobian from matrix coordinates to collective modes is similar to the\ncorresponding Jacobian in $d = 1$ matrix models. The collective field theory is\nanalyzed in the planar limit. The saddle point eigenvalue distribution is the\none that defines the original multicritical point and therefore exhibits the\nappropriate scaling behaviour. Some comments on the nonperturbative properties\nof the collective field theory as well as comments on the Virasoro constraints\nassociated with the loop equations are made at the end of this letter. There we\nalso make some remarks on the fermionic formulation of the model and its\nintegrability, as a nonlocal version of the non linear Schr\\\"{o}dinger model.",
+    "authors": [
+      "Joshua Feinberg"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-20T12:29:01Z",
+    "updated": "1992-01-20T12:29:01Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201050v1",
+    "title": "The Complete Spectrum of the $W_N$ String",
+    "abstract": "We obtain the complete physical spectrum of the $W_N$ string, for arbitrary\n$N$. The $W_N$ constraints freeze $N-2$ coordinates, while the remaining\ncoordinates appear in the currents only {\\it via} their energy-momentum tensor.\nThe spectrum is then effectively described by a set of ordinary Virasoro-like\nstring theories, but with a non-critical value for the central charge and a\ndiscrete set of non-standard values for the spin-2 intercepts. In particular,\nthe physical spectrum of the $W_N$ string includes the usual massless states of\nthe Virasoro string. By looking at the norms of low-lying states, we find\nstrong indications that all the $W_N$ strings are unitary.",
+    "authors": [
+      "H. Lu",
+      "C. N. Pope",
+      "S. Schrans",
+      "K. W. Xu"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-24T00:10:30Z",
+    "updated": "1992-01-24T00:10:30Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201051v1",
+    "title": "The Lie-Poisson Structure of Integrable Classical Non-Linear Sigma\n  Models",
+    "abstract": "The canonical structure of classical non-linear sigma models on Riemannian\nsymmetric spaces, which constitute the most general class of classical\nnon-linear sigma models known to be integrable, is shown to be governed by a\nfundamental Poisson bracket relation that fits into the $r$-$s$-matrix\nformalism for non-ultralocal integrable models first discussed by Maillet. The\nmatrices $r$ and $s$ are computed explicitly and, being field dependent,\nsatisfy fundamental Poisson bracket relations of their own, which can be\nexpressed in terms of a new numerical matrix~$c$. It is proposed that all these\nPoisson brackets taken together are representation conditions for a new kind of\nalgebra which, for this class of models, replaces the classical Yang-Baxter\nalgebra governing the canonical structure of ultralocal models. The Poisson\nbrackets for the transition matrices are also computed, and the notorious\nregularization problem associated with the definition of the Poisson brackets\nfor the monodromy matrices is discussed.",
+    "authors": [
+      "M. Bordemann",
+      "M. Forger",
+      "J. Laartz",
+      "U. Schaeper"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-24T03:38:35Z",
+    "updated": "1992-01-24T03:38:35Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201057v2",
+    "title": "Classical and Quantum W-Gravity",
+    "abstract": "Classical W-gravities and the corresponding quantum theories are reviewed.\nW-gravities are higher-spin gauge theories in two dimensions whose gauge\nalgebras are W-algebras. The geometrical structure of classical W-gravity is\ninvestigated, leading to surprising connections with self-dual geometry. The\nanomalies that arise in quantum W-gravity are discussed, with particular\nattention to the new types of anomalies that arise for non-linearly realised\nsymmetries and to the relation between path-integral anomalies and non-closure\nof the quantum current algebra. Models in which all anomalies are cancelled by\nghost contributions lead to new generalisations of string theories.",
+    "authors": [
+      "C. M. Hull"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-28T15:54:40Z",
+    "updated": "1992-01-30T12:17:23Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201061v2",
+    "title": "Are Horned Particles the Climax of Hawking Evaporation?",
+    "abstract": "We investigate the proposal by Callan, Giddings, Harvey and Strominger (CGHS)\nthat two dimensional quantum fluctuations can eliminate the singularities and\nhorizons formed by matter collapsing on the nonsingular extremal black hole of\ndilaton gravity. We argue that this scenario could in principle resolve all of\nthe paradoxes connected with Hawking evaporation of black holes. However, we\nshow that the generic solution of the model of CGHS is singular. We propose\nmodifications of their model which may allow the scenario to be realized in a\nconsistent manner.",
+    "authors": [
+      "T. Banks",
+      "A. Dabolkhar",
+      "M. R. Douglas",
+      "M. O' Loughlin"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-28T19:45:03Z",
+    "updated": "1992-01-30T17:28:07Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201065v2",
+    "title": "Coupling of Tachyons and Discrete States in $c = 1$ 2-D Gravity",
+    "abstract": "All the three point couplings involving tachyons and/or discrete states are\nobtained in $c=1$ two-dimensional (2-D) quantum gravity by means of the\noperator product expansion (OPE). Cocycle factors are found to be necessary in\norder to maintain the analytic structure of the OPE, and are constructed\nexplicitly both for discrete states and for tachyons. The effective action\ninvolving tachyons and discrete states is worked out to summarize all of these\nthree point couplings.",
+    "authors": [
+      "Yoichiro Matsumura",
+      "Norisuke Sakai",
+      "Yoshiaki Tanii"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-29T05:38:42Z",
+    "updated": "1992-02-04T06:57:34Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201066v2",
+    "title": "Interaction of Tachyons and Discrete States in c=1 2-D Quantum Gravity",
+    "abstract": "The two-dimensional (2-D) quantum gravity coupled to the conformal matter\nwith $c=1$ is studied. We obtain all the three point couplings involving\ntachyons and/or discrete states via operator product expansion. We find that\ncocycle factors are necessary and construct them explicitly. We obtain an\neffective action for these three point couplings. This is a brief summary of\nour study of couplings of tachyons and discrete states, reported at the\nworkshop in Tokyo Metropolitan University, December 4-6, 1991.",
+    "authors": [
+      "Yoichiro Matsumura",
+      "Norisuke Sakai",
+      "Yoshiaki Tanii"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-29T05:39:06Z",
+    "updated": "1992-02-04T06:57:43Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201071v1",
+    "title": "SO(2,C) invariant ring structure of BRST cohomology and singular vectors\n  in 2D gravity with c < 1 matter",
+    "abstract": "We consider BRST quantized 2D gravity coupled to conformal matter with\narbitrary central charge $c^M = c(p,q) < 1$ in the conformal gauge. We apply a\nLian-Zuckerman $SO(2,\\bbc)$ ($(p,q)$ - dependent) rotation to Witten's $c^M =\n1$ chiral ground ring. We show that the ring structure generated by the\n(relative BRST cohomology) discrete states in the (matter $\\otimes$ Liouville\n$\\otimes$ ghosts) Fock module may be obtained by this rotation. We give also\nexplicit formulae for the discrete states. For some of them we use new formulae\nfor $c <1$ Fock modules singular vectors which we present in terms of Schur\npolynomials generalizing the $c=1$ expressions of Goldstone, while the rest of\nthe discrete states we obtain by finding the proper $SO(2,\\bbc)$ rotation. Our\nformulae give the extra physical states (arising from the relative BRST\ncohomology) on the boundaries of the $p \\times q$ rectangles of the conformal\nlattice and thus all such states in $(1,q)$ or $(p,1)$ models.",
+    "authors": [
+      "N. Chair",
+      "V. K. Dobrev",
+      "H. Kanno"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-29T18:53:00Z",
+    "updated": "1992-01-29T18:53:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201073v2",
+    "title": "All-orders wormhole vertex operators from the Wheeler-deWitt equation",
+    "abstract": "We discuss the calculation of semi-classical wormhole vertex operators from\nwave functions which satisfy the Wheeler-deWitt equation and momentum\nconstraints, together with certain `wormhole boundary conditions'. We consider\na massless minimally coupled scalar field, initially in the spherically\nsymmetric `mini-superspace' approximation, and then in the `midi-superspace'\napproximation, where non-spherically symmetric perturbations are linearized\nabout a spherically symmetric mini-superspace background. Our approach suggests\nthat there are higher derivative corrections to the vertex operator from the\nnon-spherically symmetric perturbations. This is compared directly with the\napproach based on complete wormhole solutions to the equations of motion where\nit has been claimed that the semi-classical vertex operator is exactly given by\nthe lowest order term, to all orders in the size of the wormhole throat. Our\nresults are also compared with the conformally coupled case.",
+    "authors": [
+      "Alex Lyons"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-29T21:02:39Z",
+    "updated": "1992-01-30T20:23:51Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201072v1",
+    "title": "Quantum Rings and Recursion Relations in 2D Quantum Gravity",
+    "abstract": "I study tachyon condensate perturbations to the action of the two dimensional\nstring theory corresponding to the c=1 matrix model. These are shown to deform\nthe action of the ground ring on the tachyon modules, confirming a conjecture\nof Witten. The ground ring structure is used to derive recursion relations\nwhich relate (N+1) and N tachyon bulk scattering amplitudes. These recursion\nrelations allow one to compute all bulk amplitudes.",
+    "authors": [
+      "Shamit Kachru"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-30T02:00:59Z",
+    "updated": "1992-01-30T02:00:59Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9201075v1",
+    "title": "Topology change in ISO(2,1) Chern-Simons gravity",
+    "abstract": "In 2+1 dimensional gravity, a dreibein and the compatible spin connection can\nrepresent a space-time containing a closed spacelike surface $\\Sigma$ only if\nthe associated SO(2,1) bundle restricted to $\\Sigma$ has the same\nnon-triviality (Euler class) as that of the tangent bundle of $\\Sigma.$ We\nimpose this bundle condition on each external state of Witten's\ntopology-changing amplitude. The amplitude is non-vanishing only if the\ncombination of the space topologies satisfies a certain selection rule. We\nconstruct a family of transition paths which reproduce all the allowed\ncombinations of genus $g \\ge 2$ spaces.",
+    "authors": [
+      "K. Amano",
+      "S. Higuchi"
+    ],
+    "categories": "hep-th",
+    "published": "1992-01-30T09:52:29Z",
+    "updated": "1992-01-30T09:52:29Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9202207v1",
+    "title": "Graded derivations of the algebra of differential forms associated with\n  a connection",
+    "abstract": "In the main part of this paper a connection is just a fiber projection onto a\n(not necessarily integrable) distribution or sub vector bundle of the tangent\nbundle. Here curvature is computed via the Froelicher-Nijenhuis bracket, and it\nis complemented by cocurvature and the Bianchi identity still holds. In this\nsituation we determine the graded Lie algebra of all graded derivations over\nthe horizontal projection of a connection and we determine their commutation\nrelations. Finally, for a principal connection on a principal bundle and the\ninduced connection on an associated bundle we show how one may pass from one to\nthe other. The final results relate derivations on vector bundle valued forms\nand derivations over the horizontal projection of the algebra of forms on the\nprincipal bundle with values in the standard vector space.",
+    "authors": [
+      "Peter W. Michor"
+    ],
+    "categories": "math.DG",
+    "published": "1992-02-01T00:00:00Z",
+    "updated": "1992-02-01T00:00:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202008v1",
+    "title": "Two Dimensional String Theory and the Topological Torus",
+    "abstract": "We analyze topological string theory on a two dimensional torus, focusing on\nsymmetries in the matter sector. Even before coupling to gravity, the\ntopological torus has an infinite number of point-like physical observables,\nwhich give rise via the BRST descent equations to an infinite symmetry algebra\nof the model. The point-like observables of ghost number zero form a\ntopological ground ring, whose generators span a spacetime manifold; the\nsymmetry algebra represents all (ground ring valued) diffeomorphisms of the\nspacetime. At nonzero ghost numbers, the topological ground ring is extended to\na superring, the spacetime manifold becomes a supermanifold, and the symmetry\nalgebra preserves a symplectic form on it. In a decompactified limit of\ncylindrical target topology, we find a nilpotent charge which behaves like a\nspacetime topological BRST operator. After coupling to topological gravity,\nthis model might represent a topological phase of $c=1$ string theory. We also\npoint out some analogies to two dimensional superstrings with the chiral GSO\nprojection, and to string theory with $c=-2$.",
+    "authors": [
+      "Petr Horava"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-03T22:42:30Z",
+    "updated": "1992-02-03T22:42:30Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202018v1",
+    "title": "Jones Polynomials for Intersecting Knots as Physical States of Quantum\n  Gravity",
+    "abstract": "We find a consistent formulation of the constraints of Quantum Gravity with a\ncosmological constant in terms of the Ashtekar new variables in the connection\nrepresentation, including the existence of a state that is a solution to all\nthe constraints. This state is related to the Chern-Simons form constructed\nfrom the Ashtekar connection and has an associated metric in spacetime that is\neverywhere nondegenerate. We then transform this state to the loop\nrepresentation and find solutions to all the constraint equations for\nintersecting loops. These states are given by suitable generalizations of the\nJones knot polynomial for the case of intersecting knots. These are the first\nphysical states of Quantum Gravity for which an explicit form is known both in\nthe connection and loop representations. Implications of this result are also\ndiscussed.",
+    "authors": [
+      "Bernd Bruegmann",
+      "Rodolfo Gambini",
+      "Jorge Pullin"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-05T18:41:37Z",
+    "updated": "1992-02-05T18:41:37Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202019v1",
+    "title": "D=0 Matrix Model as Conjugate Field Theory",
+    "abstract": "The D=0 matrix model is reformulated as a 2d nonlocal quantum field theory.\nThe interactions occur on the one-dimensional line of hermitian matrix\neigenvalues. The field is conjugate to the density of matrix eigenvalues which\nappears in the Jevicki-Sakita collective field theory. The classical solution\nof the field equation is either unique or labeled by a discrete index. Such a\nsolution corresponds to the Dyson sea modified by an entropy term. The\nmodification smoothes the sea edges, and interpolates between different\neigenvalue bands for multiple-well potentials. Our classical eigenvalue density\ncontains nonplanar effects, and satisfies a local nonlinear Schr\\\"odinger\nequation with similarities to the Marinari-Parisi $D=1$ reformulation. The\nquantum fluctuations about a classical solution are computable, and the IR and\nUV divergences are manifestly removed to all orders. The quantum corrections\ngreatly simplify in the double scaling limit, and include both\nstring-perturbative and nonperturbative effects.",
+    "authors": [
+      "Shahar Ben-Menahem"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-06T12:19:00Z",
+    "updated": "1992-02-06T12:19:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202021v1",
+    "title": "The Master Equation of 2D String Theory",
+    "abstract": "A general method is presented for deriving on-shell Ward-identities in (2D)\nstring theory. It is shown that all tree-level Ward identities can be\nsummarized in a quadratic differential equation for the generating function of\ntree-amplitudes. This result is extended to loop amplitudes and leads to a\nmaster equation {\\it \\`{a} la} Batalin-Vilkovisky for the complete partition\nfunction.",
+    "authors": [
+      "Erik Verlinde"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-06T17:53:00Z",
+    "updated": "1992-02-06T17:53:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202026v1",
+    "title": "$CP^N$ Model With a Chern-Simons Term",
+    "abstract": "The $CP^N$ model in three euclidean dimensions is studied in the presence of\na Chern-Simons term using the $1/N$ expansion. The $\\beta$-function for the CS\ncoefficient $\\theta$ is found to be zero to order $1/N$ in the unbroken phase\nby an explicit calculation. It is argued to be zero to all orders. Some remarks\non the $\\theta$ dependence of the critical exponents are also made.",
+    "authors": [
+      "G. Ferretti",
+      "S. G. Rajeev"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-07T17:43:00Z",
+    "updated": "1992-02-07T17:43:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202031v2",
+    "title": "Black Holes in Higher Derivative Gravity Theories",
+    "abstract": "We study static spherically symmetric solutions of Einstein gravity plus an\naction polynomial in the Ricci scalar, $R$, of arbitrary degree, $n$, in\narbitrary dimension, $D$. The global properties of all such solutions are\nderived by studying the phase space of field equations in the equivalent theory\nof gravity coupled to a scalar field, which is obtained by a field redefinition\nand conformal transformation. The following uniqueness theorem is obtained:\nprovided that the coefficient of the $R^2$ term in the Lagrangian polynomial is\npositive then the only static spherically symmetric asymptotically flat\nsolution with a regular horizon in these models is the Schwarzschild solution.\nOther branches of solutions with regular horizons, which are asymptotically\nanti-de Sitter, or de Sitter, are also found. An exact Schwarzschild-de Sitter\ntype solution is found to exist in the $R+aR^2$ if $D>4$. If terms of cubic or\nhigher order in $R$ are included in the action, then such solutions also exist\nin four dimensions. The general Schwarzschild-de Sitter type solution for\narbitrary $D$ and $n$ is given. The fact that the Schwarzschild solution in\nthese models does not coincide with the exterior solution of physical bodies\nsuch as stars has important physical implications which we discuss. As a\nbyproduct, we classify all static spherically symmetric solutions of\n$D$-dimensional gravity coupled to a scalar field with a potential consisting\nof a finite sum of exponential terms.",
+    "authors": [
+      "S. Mignemi",
+      "D. L. Wiltshire"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-08T22:39:23Z",
+    "updated": "1992-04-14T20:00:11Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202035v1",
+    "title": "Remarks on the BRST-cohomology for $c_M > 1$ matter coupled to\n  ``Liouville gravity\"",
+    "abstract": "We describe the (chiral) BRST-cohomology of matter with central charge\n$1<c_M<25$ coupled to a ``Liouville\" theory, realized as a free field with a\nbackground charge $Q_L$ such that $c_M+c_L=26$. We consider two cases: a)\nmatter is realized by one free field with an imaginary background charge, b)\nmatter is realized by $D$ free fields: $c_M =D$. In case a) the cohomology\nstates can be labelled by integers $r,s$ of a rotated $c_M =1$ theory, but\nhermiticity imposes $r=s$. Thus there is still a discrete set of momenta\n$p_M(r,r),\\ p_L(r,r)$ such that there are non- trivial (relative) cohomology\nstates at level $r^2$ with ghost-numbers 0 or 1 (for $r>0$) and ghost-numbers 0\nor $-1$ (for $r<0$). The (chiral) ground ring is isomorphic to a subring of the\n$c_M =1$ theory which is $(xy)^n,\\ n=0,1,2,\\ldots$, and there are {\\it no}\nnon-trivial currents acting on the ground ring. In case b) there is no\nnon-trivial relative cohomology for non-zero ghost numbers and, for zero ghost\nnumber, the cohomology groups are isomorphic to a $(D-1)$-dimensional on-shell\n``transverse\" Fock space. The only exceptions are at level 1 for vanishing\nmatter momentum and $p_L=Q_L(1+r)$ with $r=\\pm 1$, where one has one more\nghost-number zero and a ghost-number $r$ cohomology state. All these results\nfollow quite easily from the existing literature.",
+    "authors": [
+      "Adel Bilal"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-11T17:32:39Z",
+    "updated": "1992-02-11T17:32:39Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202039v1",
+    "title": "On the Classification of Quasihomogeneous Functions",
+    "abstract": "We give a criterion for the existence of a non-degenerate quasihomogeneous\npolynomial in a configuration, i.e. in the space of polynomials with a fixed\nset of weights, and clarify the relation of this criterion to the necessary\ncondition derived from the formula for the Poincar\\'e polynomial. We further\nprove finiteness of the number of configurations for a given value of the\nsingularity index. For the value 3 of this index, which is of particular\ninterest in string theory, a constructive version of this proof implies an\nalgorithm for the calculation of all non-degenerate configurations.",
+    "authors": [
+      "Maximilian Kreuzer",
+      "Harald Skarke"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-12T15:41:15Z",
+    "updated": "1992-02-12T15:41:15Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202040v1",
+    "title": "The Classical Limit of W-Algebras",
+    "abstract": "We define and compute explicitly the classical limit of the realizations of\n$W_n$ appearing as hamiltonian structures of generalized KdV hierarchies. The\nclassical limit is obtained by taking the commutative limit of the ring of\npseudodifferential operators. These algebras---denoted $w_n$---have free field\nrealizations in which the generators are given by the elementary symmetric\npolynomials in the free fields. We compute the algebras explicitly and we show\nthat they are all reductions of a new algebra $w_{\\rm KP}$, which is proposed\nas the universal classical $W$-algebra for the $w_n$ series. As a deformation\nof this algebra we also obtain $w_{1+\\infty}$, the classical limit of\n$W_{1+\\infty}$.",
+    "authors": [
+      "Jose M. Figueroa-O'Farrill",
+      "Eduardo Ramos"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-12T16:46:38Z",
+    "updated": "1992-02-12T16:46:38Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202041v1",
+    "title": "Exact Critical Exponents of the Staircase Model",
+    "abstract": "The staircase model is a recently discovered one-parameter family of\nintegrable two-dimensional continuum field theories. We analyze the novel\ncritical behavior of this model, seen as a perturbation of a minimal conformal\ntheory M_p: the leading thermodynamic singularities are simultaneously governed\nby all fixed points M_p, M_{p-1}, ..., M_3. The exponents of the magnetic\nsusceptibility and the specific heat are obtained exactly. Various corrections\nto scaling are discussed, among them a new type specific to crossover phenomena\nbetween critical fixed points.",
+    "authors": [
+      "Michael Lassig"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-12T20:24:20Z",
+    "updated": "1992-02-12T20:24:20Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202043v1",
+    "title": "Chiral Bosons Through Linear Constraints",
+    "abstract": "We study in detail the quantization of a model which apparently describes\nchiral bosons. The model is based on the idea that the chiral condition could\nbe implemented through a linear constraint. We show that the space of states is\nof indefinite metric. We cure this disease by introducing ghost fields in such\na way that a BRST symmetry is generated. A quartet algebra is seen to emerge.\nThe quartet mechanism, then, forces all physical states, but the vacuum, to\nhave zero norm.",
+    "authors": [
+      "H. O. Girotti",
+      "M. Gomes",
+      "V. O. Rivelles"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-13T19:06:29Z",
+    "updated": "1992-02-13T19:06:29Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202052v1",
+    "title": "Topological Spin-Statistics Theorem for Strings",
+    "abstract": "Recently, a topological proof of the spin-statistics Theorem has been\nproposed for a system of point particles which does not require relativity or\nfield theory, but assumes the existence of antiparticles. We extend this proof\nto a system of string loops in three space dimensions and show that by assuming\nthe existence of antistring loops, one can prove a spin-statistics theorem for\nthese string loops. According to this theorem, all unparametrized strings(such\nas flux tubes in superconductors and cosmic strings ) should be quantized as\nbosons. Also, as in the point particle case, we find that the theorem excludes\nnonabelian statistics.",
+    "authors": [
+      "A. P. Balachandran",
+      "W. D. McGlinn",
+      "L. O'Raifeartaigh",
+      "S. Sen",
+      "R. D. Sorkin",
+      "A. M. Srivastava"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-14T11:07:28Z",
+    "updated": "1992-02-14T11:07:28Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202046v1",
+    "title": "Duality Anomaly Cancellation, Minimal String Unification and the\n  Effective Low-Energy Lagrangian of 4-D Strings",
+    "abstract": "We present a systematic study of the constraints coming from target-space\nduality and the associated duality anomaly cancellations on orbifold-like 4-D\nstrings. A prominent role is played by the modular weights of the massless\nfields. We present a general classification of all possible modular weights of\nmassless fields in Abelian orbifolds. We show that the cancellation of modular\nanomalies strongly constrains the massless fermion content of the theory, in\nclose analogy with the standard ABJ anomalies. We emphasize the validity of\nthis approach not only for (2,2) orbifolds but for (0,2) models with and\nwithout Wilson lines. As an application one can show that one cannot build a\n${\\bf Z}_3$ or ${\\bf Z}_7$ orbifold whose massless charged sector with respect\nto the (level one) gauge group $SU(3)\\times SU(2) \\times U(1)$ is that of the\nminimal supersymmetric standard model, since any such model would necessarily\nhave duality anomalies. A general study of those constraints for Abelian\norbifolds is presented. Duality anomalies are also related to the computation\nof string threshold corrections to gauge coupling constants. We present an\nanalysis of the possible relevance of those threshold corrections to the\ncomputation of $\\sin^2\\theta_W$ and $\\alpha_3$ for all Abelian orbifolds. Some\nparticular {\\it minimal} scenarios, namely those based on all ${\\bf Z}_N$\norbifolds except ${\\bf Z}_6$",
+    "authors": [
+      "Luis E. Ibanez",
+      "Dieter Luest"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-14T13:41:49Z",
+    "updated": "1992-02-14T13:41:49Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202051v1",
+    "title": "Classical {\\it vs.}\\ Landau-Ginzburg Geometry of Compactification",
+    "abstract": "We consider superstring compactifications where both the classical\ndescription, in terms of a Calabi-Yau manifold, and also the quantum theory is\nknown in terms of a Landau-Ginzburg orbifold model. In particular, we study\n(smooth) Calabi-Yau examples in which there are obstructions to parametrizing\nall of the complex structure cohomology by polynomial deformations thus\nrequiring the analysis based on exact and spectral sequences. General arguments\nensure that the Landau-Ginzburg chiral ring copes with such a situation by\nhaving a nontrivial contribution from twisted sectors. Beyond the expected\nfinal agreement between the mathematical and physical approaches, we find a\ndirect correspondence between the analysis of each, thus giving a more complete\nmathematical understanding of twisted sectors. Furthermore, this approach shows\nthat physical reasoning based upon spectral flow arguments for determining the\nspectrum of Landau-Ginzburg orbifold models finds direct mathematical\njustification in Koszul complex calculations and also that careful point- field\nanalysis continues to recover suprisingly much of the stringy features.",
+    "authors": [
+      "P. ~Berglund",
+      "B. R. ~Greene",
+      "T. ~Hübsch"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-14T19:57:08Z",
+    "updated": "1992-02-14T19:57:08Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202059v1",
+    "title": "Axion Couplings and Effective Cut-Offs in Superstring Compactifications",
+    "abstract": "We use the linear supermultiplet formalism of supergravity to study axion\ncouplings and chiral anomalies in the context of field-theoretical Lagrangians\ndescribing orbifold compactifications beyond the classical approximation. By\nmatching amplitudes computed in the effective low energy theory with the\nresults of string loop calculations we determine the appropriate counterterm in\nthis effective theory that assures modular invariance to all loop order. We use\nsupersymmetry consistency constraints to identify the correct ultra-violet\ncut-offs for the effective low energy theory. Our results have a simple\ninterpretation in terms of two-loop unification of gauge coupling constants at\nthe string scale.",
+    "authors": [
+      "Mary K. Gaillard",
+      "T. R. Taylor"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-18T14:31:00Z",
+    "updated": "1992-02-18T14:31:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202061v1",
+    "title": "Exceptional Superconformal Algebras",
+    "abstract": "Reductive W-algebras which are generated by bosonic fields of spin-1, a\nsingle spin-2 field and fermionic fields of spin-3/2 are classified. Three new\ncases are found: a `symplectic' family of superconformal algebras which are\nextended by $su(2)\\oplus sp(n)$, an $N=7$ and an $N=8$ superconformal algebra.\nThe exceptional cases can be viewed as arising a Drinfeld-Sokolov type\nreduction of the exceptional Lie superalgebras $G(3)$ and $F(4)$, and have an\noctonionic description. The quantum versions of the superconformal algebras are\nconstructed explicitly in all three cases.",
+    "authors": [
+      "P. Bowcock"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-19T00:30:10Z",
+    "updated": "1992-02-19T00:30:10Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202062v1",
+    "title": "The Plumbing of Minimal Area Metrics",
+    "abstract": "We study the metric of minimal area on a punctured Riemann surface under the\ncondition that all nontrivial homotopy closed curves be longer than or equal to\n$2\\pi$. By constructing deformations of admissible metrics we establish\nnecessary conditions on minimal area metrics and a partial converse to\nBeurling's criterion for extremal metrics. We explicitly construct new minimal\narea metrics that do not arise from quadratic differentials.\n  Under the physically motivated assumption of existence of the minimal area\nmetrics, we show there exist neighborhoods of the punctures isometric to a flat\nsemiinfinite cylinder of circumference $2\\pi$, allowing the definition of\ncanonical complex coordinates around the punctures. The plumbing of surfaces\nwith minimal area metrics is shown to induce a metric of minimal area on the\nresulting surface. This implies that minimal area string diagrams define a\nconsistent quantum closed string field theory.",
+    "authors": [
+      "Michael Wolf",
+      "Barton Zwiebach"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-19T02:35:00Z",
+    "updated": "1992-02-19T02:35:00Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202069v1",
+    "title": "Quantum Conserved Currents in Affine Toda Theories",
+    "abstract": "We study the renormalization and conservation at the quantum level of\nhigher-spin currents in affine Toda theories with particular emphasis on the\nnonsimply-laced cases. For specific examples, namely the spin-3 current for the\n$a_3^{(2)}$ and $c_2^{(1)}$ theories, we prove conservation to all-loop order,\nthus establishing the existence of factorized S-matrices. For these theories,\nas well as the simply-laced $a_2^{(1)}$ theory, we compute one-loop corrections\nto the corresponding higher-spin charges and study charge conservation for the\nthree-particle vertex function. For the $a_3^{(2)}$ theory we show that\nalthough the current is conserved, anomalous threshold singularities spoil the\nconservation of the corresponding charge for the on-shell vertex function,\nimplying a breakdown of some of the bootstrap procedures commonly used in\ndetermining the exact S-matrix.",
+    "authors": [
+      "G. W. Delius",
+      "M. T. Grisaru",
+      "D. Zanon"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-20T11:54:02Z",
+    "updated": "1992-02-20T11:54:02Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202074v1",
+    "title": "A Model of Three-Dimensional Lattice Gravity",
+    "abstract": "A model is proposed which generates all oriented $3d$ simplicial complexes\nweighted with an invariant associated with a topological lattice gauge theory.\nWhen the gauge group is $SU_q(2)$, $q^n=1,$ it is the Turaev-Viro invariant and\nthe model may be regarded as a non-perturbative definition of $3d$ simplicial\nquantum gravity. If one takes a finite abelian group $G$, the corresponding\ninvariant gives the rank of the first cohomology group of a complex\n\\nolinebreak $C$: $I_G(C) = rank(H^1(C,G))$, which means a topological\nexpansion in the Betti number $b^1$. In general, it is a theory of the\nDijkgraaf-Witten type, $i.e.$ determined completely by the fundamental group of\na manifold.",
+    "authors": [
+      "D. Boulatov"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-21T12:02:15Z",
+    "updated": "1992-02-21T12:02:15Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202080v1",
+    "title": "Schwinger-Dyson Equations of Matrix Models for Open and Closed Strings",
+    "abstract": "We study the Schwinger-Dyson equations of a matrix model for an open-closed\nstring theory. The free energy with source terms for scaling operators\nsatisfies the same Virasoro conditions as those of the pure closed string and\nis obtained from that of the pure closed string by giving appropriate\nnonvanishing background values to all of the sources.",
+    "authors": [
+      "Yukihisa Itoh",
+      "Yoshiaki Tanii"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-24T02:14:31Z",
+    "updated": "1992-02-24T02:14:31Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202088v1",
+    "title": "The Index of discontinuous Vector Fields: Topological Particles and\n  Vector Fields",
+    "abstract": "We define the concepts of topological particles and topological radiation.\nThese are nothing more than connected components of defects of a vector field.\nTo each topological particle we assign an index which is an integer which is\nconserved under interactions with other particles much as electric charge is\nconserved. For space-like vector fields of space-times this index is invariant\nunder all coordinate transformations. We propose the following physical\nprincipal: For physical vector fields the index changes only when there is\nradiation. As an implication of this principal we predict that any physical\npsuedo-vector field has index zero. The definition of the index is quite\nelementary. It only depends upon the concepts of continuity, compactness, the\nEuler-Poincare number, and the idea of inward pointing. The proof that this\ndefinition is well defined takes up most of the paper. The paper concludes with\na list of properties of the index.",
+    "authors": [
+      "Daniel H. Gottlieb",
+      "Geetha Samaranayake"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-26T19:39:07Z",
+    "updated": "1992-02-26T19:39:07Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9202090v2",
+    "title": "From wormhole to time machine: Comments on Hawking's Chronology\n  Protection Conjecture",
+    "abstract": "The recent interest in ``time machines'' has been largely fueled by the\napparent ease with which such systems may be formed in general relativity,\ngiven relatively benign initial conditions such as the existence of traversable\nwormholes or of infinite cosmic strings. This rather disturbing state of\naffairs has led Hawking to formulate his Chronology Protection Conjecture,\nwhereby the formation of ``time machines'' is forbidden. This paper will use\nseveral simple examples to argue that the universe appears to exhibit a\n``defense in depth'' strategy in this regard. For appropriate parameter regimes\nCasimir effects, wormhole disruption effects, and gravitational back reaction\neffects all contribute to the fight against time travel. Particular attention\nis paid to the role of the quantum gravity cutoff. For the class of model\nproblems considered it is shown that the gravitational back reaction becomes\nlarge before the Planck scale quantum gravity cutoff is reached, thus\nsupporting Hawking's conjecture.",
+    "authors": [
+      "By Matt Visser"
+    ],
+    "categories": "hep-th",
+    "published": "1992-02-26T20:32:21Z",
+    "updated": "1992-10-08T20:46:26Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/math/9202203v1",
+    "title": "Lower estimates of random unconditional constants of Walsh-Paley\n  martingales with values in banach spaces",
+    "abstract": "For a Banach space X we define RUMD_n(X) to be the infimum of all c>0 such\nthat (AVE_{\\epsilon_k =\\pm 1} || \\sum_1^n epsilon_k (M_k - M_{k-1}\n)||_{L_2^X}^2 )^{1/2} <= c || M_n ||_{L_2^X} holds for all Walsh-Paley\nmartingales {M_k}_0^n subset L_2^X with M_0 =0. We relate the asymptotic\nbehaviour of the sequence {RUMD(X)}_{n=1}^{infinity} to geometrical properties\nof the Banach space X such as K-convexity and superreflexivity.",
+    "authors": [
+      "Stefan Geiss"
+    ],
+    "categories": "math.FA",
+    "published": "1992-02-28T15:51:29Z",
+    "updated": "1992-02-28T15:51:29Z"
+  },
+  {
+    "id": "http://arxiv.org/abs/hep-th/9203008v1",
+    "title": "Gauge Symmetries of the N=2 String",
+    "abstract": "We study the underlying gauge symmetry algebra of the $N=2$ string, which is\nbroken down to a subalgebra in any spacetime background. For given toroidal\nbackgrounds, the unbroken gauge symmetries (corresponding to holomorphic and\nantiholomorphic worldsheet currents) generate area-preserving diffeomorphism\nalgebras of null 2-tori. A minimal Lie algebraic closure containing all the\ngauge symmetries that arise in this way, is the background--independent\nvolume--preserving diffeomorphism algebra of the target Narain torus $T^{4,4}$.\nThe underlying symmetries act on the ground ring of functions on $T^{4,4}$ as\nderivations, much as in the case of the $d=2$ string. A background--independent\nspacetime action valid for noncompact metrics is presented, whose symmetries\nare volume--preserving diffeomorphisms. Possible extensions to $N=2$ and $N=1$\nheterotic strings are briefly discussed.",
+    "authors": [
+      "Amit Giveon",
+      "Alfred Shapere"
+    ],
+    "categories": "hep-th",
+    "published": "1992-03-03T23:48:46Z",
+    "updated": "1992-03-03T23:48:46Z"
+  }
+]
